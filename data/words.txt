@@ -1,0 +1,97 @@
+english	russian	encouragement	ободрение; поощрение; потворство
+english	russian	improvement	улучшение, усовершенствование; исправление; развитие
+english	russian	somewhat	что-то; кое-что
+english	russian	warily	осторожно
+english	russian	coroutine	сопрограмма
+english	russian	idiom	идиома, идиоматическое выражение
+english	russian	received	общепринятый, общепризнанный
+english	russian	palatably	вкусно, аппетитный
+english	russian	doubt	сомневаться, быть неуверенным, считать маловероятным
+english	russian	complexity	сложность; запутанность
+english	russian	concern	проблема; вопрос, требующий решения; забота, дело
+english	russian	surely	конечно, непременно
+english	russian	noticed	обратил внимание
+english	russian	behaviour	образ действий, поступки; манеры; поведение
+english	russian	simultaneously	вместе, одновременно
+english	russian	concurrency	совпадение; параллелизм
+english	russian	attraction	влечение
+english	russian	preemptive	преимущественный
+english	russian	avoid	избегать, остерегаться, сторониться, уклоняться
+english	russian	specifically	особенно, специально, в особенности
+english	russian	accompany	сопровождать, следовать вместе
+english	russian	accommodate	подгонять; приспосабливать
+english	russian	radically	в своей основе, в корне, по происхождению
+english	russian	sense	чувство; ощущение
+english	russian	exceptionally	исключительно
+english	russian	approach	подходить, приближаться
+english	russian	convention	собрание, съезд
+english	russian	indicate	показывать, указывать
+english	russian	supply	снабжение, поставка
+english	russian	acknowledgment	признание
+english	russian	early	ранний
+english	russian	invaluable	бесценный, неоценимый
+english	russian	grateful	благодарный; признательный
+english	russian	precious	драгоценный; большой ценности
+english	russian	incarnation	воплощение, олицетворение
+english	russian	restriction	ограничение
+english	russian	near	ближний, близлежащий, близко расположенный
+english	russian	cause	причина, основание
+english	russian	involve	привлекать, вовлекать, втягивать
+english	russian	concurrent	сопутствующее обстоятельство
+english	russian	backdrop	задник
+english	russian	perform	исполнять, выполнять; делать, совершать
+english	russian	insight	проницательность, способность проникновения в суть
+english	russian	perform	исполнять, выполнять; делать, совершать
+english	russian	unmistakably	безошибочно
+english	russian	establishment	создание, образование, учреждение
+english	russian	scratch	царапать, скрести, оцарапать, расцарапать
+english	russian	fleet	военно-морской флот
+english	russian	arrive	прибывать, приезжать
+english	russian	slip	скользить, плавно передвигаться
+english	russian	preserve	варенье, джем, конфитюр
+english	russian	to	местные и пространственные значения
+english	russian	whether	ли
+english	russian	dish	блюдо
+english	russian	graciously	милостиво, благосклонно
+english	russian	wish	желать, хотеть
+english	russian	pleasant	приятный; радостный; милый, симпатичный; славный
+english	russian	truly	правдиво; искренне
+english	russian	niggling	мелочный
+english	russian	worse	худший
+english	russian	occasional	случающийся время от времени, иногда, редко; редкий, случайный
+english	russian	unsettling	тревожащий
+english	russian	plate	тарелка, блюдце, блюдо
+english	russian	shattering	тяжёлый, страшный; сокрушительный
+english	russian	mess	беспорядок; путаница, неразбериха; грязь
+english	russian	notch	выемка, метка, зарубка; зазубрина; борозда, желобок, утор; зубец; вырез, паз, пропил, прорез
+english	russian	spill	проливать, разливать, расплёскивать
+english	russian	decided	точный, определённый, решённый; бесспорный, несомненный, ясный, явный
+english	russian	diner	обедающий
+english	russian	awkward	неуклюжий, неловкий
+english	russian	collision	столкновение
+english	russian	still	бесшумный, тихий, безмолвный
+english	russian	collision	столкновение
+english	russian	incomprehensible	малопонятный, необъяснимый, непонятный, непостижимый, неясный
+english	russian	clockwise	движущийся по часовой стрелке
+english	russian	advise	советовать
+english	russian	amplification	увеличение; подъём, прирост, расширение
+english	russian	emission	выделение, распространение; выброс
+english	russian	prob	вероятность
+english	russian	probably	вероятно, наверное
+english	russian	collisions	столкновение
+english	russian	occur	происходить, случаться, совершаться
+english	russian	quiet	тихий, бесшумный
+english	russian	famous	видный, выдающийся, знаменитый, известный, прославленный, славный
+english	russian	tight	тугой, туго натянутый, туго завязанный
+english	russian	squeeze	сжатие; прессование; сдавливание
+english	russian	exact	точный; строгий
+english	russian	might	энергия; мощность, физическая сила
+english	russian	singular	единственное число
+english	russian	clarity	доходчивость, ясность, понятность
+english	russian	lucidity	ясность; логичность, понятность; прозрачность
+english	russian	overwhelms	ошеломлять, поражать, потрясать
+english	russian	confirmation	подтверждение
+english	russian	considering	учитывая, принимая во внимание
+english	russian	consider	рассматривать, обсуждать
+english	russian	entails	акт, закрепляющий порядок наследования земли без права отчуждения; майоратное наследование
+english	russian	measuring	измерительный, мерный
